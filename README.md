@@ -1,2 +1,3 @@
 # CudyTR3000v1
-OpenWRT固件
+CudyTR3000v1.1固件
+内核版本	5.4.284
